@@ -1,6 +1,6 @@
 org: "tomoki"
 app: "aws-nodejs-typescript"
-service: 'aws-nodejs-typescript'
+service: 'hello'
 frameworkVersion: '2'
 custom:
   esbuild:
